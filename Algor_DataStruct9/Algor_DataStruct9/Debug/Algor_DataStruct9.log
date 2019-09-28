@@ -1,0 +1,5 @@
+﻿  Main.cpp
+d:\proektiki\algor_datastruct9\algor_datastruct9\main.cpp(105): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  d:\proektiki\algor_datastruct9\algor_datastruct9\main.cpp(105): note: consider using '%lli' in the format string
+  d:\proektiki\algor_datastruct9\algor_datastruct9\main.cpp(105): note: consider using '%I64i' in the format string
+  Algor_DataStruct9.vcxproj -> D:\proektiki\Algor_DataStruct9\Debug\Algor_DataStruct9.exe

@@ -1,0 +1,5 @@
+﻿  Main.cpp
+d:\proektiki\algor_lab5\algor_lab5\header.h(83): warning C4018: <: несоответствие типов со знаком и без знака
+d:\proektiki\algor_lab5\algor_lab5\main.cpp(61): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\proektiki\algor_lab5\algor_lab5\main.cpp(8): warning C4101: variable: неиспользованная локальная переменная
+  Algor_lab5.vcxproj -> D:\proektiki\Algor_lab5\Debug\Algor_lab5.exe

@@ -1,0 +1,6 @@
+﻿  Main.cpp
+d:\proektiki\algoritms_data_struct4\algoritms_data_struct4\main.cpp(57): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\proektiki\algoritms_data_struct4\algoritms_data_struct4\main.cpp(65): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\proektiki\algoritms_data_struct4\algoritms_data_struct4\main.cpp(73): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\proektiki\algoritms_data_struct4\algoritms_data_struct4\main.cpp(78): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Algoritms_data_struct4.vcxproj -> D:\proektiki\Algoritms_data_struct4\Debug\Algoritms_data_struct4.exe

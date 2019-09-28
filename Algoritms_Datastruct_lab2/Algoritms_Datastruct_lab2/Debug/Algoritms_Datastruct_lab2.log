@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\proektiki\algoritms_datastruct_lab2\algoritms_datastruct_lab2\main.cpp(51): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+d:\proektiki\algoritms_datastruct_lab2\algoritms_datastruct_lab2\main.cpp(98): warning C4715: HashMap::Search: значение возвращается не при всех путях выполнения
+  Algoritms_Datastruct_lab2.vcxproj -> D:\proektiki\Algoritms_Datastruct_lab2\Debug\Algoritms_Datastruct_lab2.exe

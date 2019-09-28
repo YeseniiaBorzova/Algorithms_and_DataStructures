@@ -1,0 +1,6 @@
+﻿  Main.cpp
+d:\proektiki\algor_datastruct11\algor_datastruct11\main.cpp(43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\proektiki\algor_datastruct11\algor_datastruct11\main.cpp(54): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\proektiki\algor_datastruct11\algor_datastruct11\main.cpp(39): warning C4101: 'pos': unreferenced local variable
+d:\proektiki\algor_datastruct11\algor_datastruct11\main.cpp(39): warning C4101: 'j': unreferenced local variable
+  Algor_Datastruct11.vcxproj -> D:\proektiki\Algor_Datastruct11\Debug\Algor_Datastruct11.exe
